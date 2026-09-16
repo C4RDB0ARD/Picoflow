@@ -3,7 +3,7 @@ Study/Break Timer - Desktop App
 
 Disclaimer: Coded with Claude AI.
 Take whatever stance you want on AI you want, and you can choose to not use this i get it.
-but I just wanted to work on a side hobby and i didn't to go through as much troubleshooting compared to if I wrote it from scratch with my knowledge
+but I just wanted to work on a side hobby and i didn't want to go through as much troubleshooting compared to if I wrote it from scratch with my knowledge
 
 Requires Python 3 with tkinter (comes standard on Windows/Mac installs
 from python.org; on Linux you may need: sudo apt install python3-tk)
